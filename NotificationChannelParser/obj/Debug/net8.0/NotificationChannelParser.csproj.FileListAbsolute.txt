@@ -1,0 +1,15 @@
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.deps.json
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.runtimeconfig.json
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.dll
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.pdb
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.AssemblyInfoInputs.cache
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.AssemblyInfo.cs
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.csproj.CoreCompileInputs.cache
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.sourcelink.json
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.dll
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/refint/NotificationChannelParser.dll
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.pdb
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.genruntimeconfig.cache
+/Users/rocky/workspace/dotnets/NotificationChannelParser/NotificationChannelParser/obj/Debug/net8.0/ref/NotificationChannelParser.dll
