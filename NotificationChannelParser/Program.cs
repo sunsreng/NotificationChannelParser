@@ -35,7 +35,7 @@ class NotificationChannelParser
         string? input = Console.ReadLine();
 
         if (String.IsNullOrWhiteSpace(input)) {
-            Console.WriteLine(input);
+            Console.WriteLine("Title is required");
             return;
         }
 
